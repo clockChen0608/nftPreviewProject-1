@@ -1,0 +1,34 @@
+{
+  "name": "nftpreviewproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clockChen0608/nftPreviewProject.git"
+  },
+  "keywords": [
+    "nft",
+    "solidity",
+    "web3",
+    "blockchain"
+  ],
+  "author": "Jack Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clockChen0608/nftPreviewProject/issues"
+  },
+  "homepage": "https://github.com/clockChen0608/nftPreviewProject#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "ethers": "^5.7.1"
+  }
+}
